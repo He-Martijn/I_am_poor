@@ -7,7 +7,7 @@ void main() {
         appBar:
         AppBar(title: Text('I am poor'),
         ),
-        body: Image(image: AssetImage('images/parking_lot_with_ird.png'),
+        body: Image(image: AssetImage('images/parking_lot_with_bird.png'),
         ),
       ),
     ),
